@@ -1,1 +1,67 @@
+🛡️ Mejores Prácticas de Seguridad en Soporte de TI
 
+1. Control de Acceso
+Usa el principio de mínimos privilegios: solo acceso necesario para cada tarea.
+
+Implementa autenticación multifactor (MFA) en sistemas críticos.
+
+Evita compartir credenciales entre técnicos.
+
+2. Gestión de Contraseñas
+Usa contraseñas seguras y únicas.
+
+Emplea un gestor de contraseñas aprobado.
+
+Cambia contraseñas predeterminadas en dispositivos o sistemas nuevos.
+
+3. Actualizaciones y Parches
+Mantén sistemas operativos y software actualizados.
+
+Aplica parches de seguridad tan pronto como estén disponibles.
+
+Usa herramientas de administración remota con funciones de actualización centralizada.
+
+4. Uso Seguro de Herramientas de Soporte Remoto
+Usa conexiones cifradas (ej. RDP con VPN, TeamViewer con verificación).
+
+Solicita autorización explícita del usuario antes de conectarte.
+
+Finaliza la sesión correctamente y cierra accesos remotos cuando no estén en uso.
+
+5. Respaldo y Recuperación
+Verifica que existan copias de seguridad automáticas y regulares.
+
+Prueba los procesos de restauración periódicamente.
+
+Asegura que los backups estén cifrados y almacenados fuera del entorno productivo.
+
+6. Monitoreo y Registro
+Habilita logs de acceso y actividades en servidores, estaciones y herramientas de soporte.
+
+Monitorea eventos sospechosos o accesos no autorizados.
+
+Usa SIEM o herramientas de análisis si es posible.
+
+7. Seguridad Física
+Controla el acceso físico a los servidores, redes y estaciones de trabajo.
+
+Usa cerraduras, cámaras o tarjetas de identificación según el entorno.
+
+8. Educación y Concientización
+Capacita al personal técnico y a los usuarios finales sobre phishing, ingeniería social y políticas de seguridad.
+
+Documenta los procedimientos seguros para tareas comunes (instalaciones, soporte remoto, etc.).
+
+9. Políticas y Procedimientos
+Establece políticas claras de soporte (horarios, límites de acceso, tiempos de respuesta).
+
+Documenta cada incidente o intervención técnica.
+
+Ten procedimientos definidos para responder a incidentes de seguridad.
+
+10. Seguridad en el Correo Electrónico y Navegación
+Evita abrir archivos adjuntos o enlaces sospechosos.
+
+Usa filtros antispam y antivirus actualizados.
+
+Configura políticas de uso seguro de internet y correo corporativo.
