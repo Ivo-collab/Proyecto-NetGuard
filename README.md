@@ -13,7 +13,7 @@ NetGuard es una aplicación de seguridad de Internet que ofrece formas sencillas
  
 ## 🛠️ Instalación - Como instalar la aplicación NetGuard Pro
 
-  ### Opción 1: Desde Google Play (versión básica)
+   ### Opción 1: Desde Google Play (versión básica)
 
 1. Abre la app **Google Play Store**
 2. Busca **"NetGuard"**
