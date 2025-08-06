@@ -30,7 +30,7 @@ NetGuard es una aplicación de seguridad de Internet que ofrece formas sencillas
 
    ### Opción 3: Instalar NetGuard Pro manualmente (APK)
 
-> ⚠️ Asegúrate de descargar el archivo APK solo desde fuentes confiables.
+ ⚠️ Asegúrate de descargar el archivo APK solo desde fuentes confiables.
 
 1. Descarga el archivo APK de NetGuard Pro desde el sitio oficial:
    - [https://www.netguard.me/](https://www.netguard.me/)
@@ -41,4 +41,24 @@ NetGuard es una aplicación de seguridad de Internet que ofrece formas sencillas
 4. Una vez instalada, abre NetGuard Pro y concede los permisos necesarios
 5. Si compraste la licencia Pro:
    - Importa la clave de licencia o sigue el proceso de activación según las instrucciones del sitio oficial
+
+ ## ✅ Funciones Pro (algunas pueden incluir)
+
+- Filtrado por nombre de dominio
+- Registro de tráfico
+- Bloqueo por red (WiFi/Datos)
+- Temas personalizados
+- Exportación de configuración
+
+
+## ❓ Soporte
+
+- Página oficial: [https://www.netguard.me/](https://www.netguard.me/)
+- GitHub: [https://github.com/M66B/NetGuard](https://github.com/M66B/NetGuard)
+- Contacto del desarrollador: Marcel Bokhorst (información en GitHub)
+
+
+## 📄 Licencia
+
+NetGuard se distribuye bajo la licencia [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 
